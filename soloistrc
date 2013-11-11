@@ -3,6 +3,7 @@ recipes:
 - sublime_text-crate
 - java-crate::oraclejdk
 - java-crate::openjdk
+- play_framework-crate
 node_attributes:
   uncrate:
     user: johnlcox
