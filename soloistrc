@@ -1,6 +1,11 @@
 recipes:
 - uncrate_base
 - sublime_text-crate
+- java-crate::oraclejdk
+- java-crate::openjdk
 node_attributes:
   uncrate:
-    user: # Add your username here
+    user: johnlcox
+  java:
+    oracle:
+      accept_oracle_download_terms: true
