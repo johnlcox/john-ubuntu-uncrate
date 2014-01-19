@@ -17,4 +17,4 @@ cookbook 'uncrate_base',
 github "sublime_text-crate", "master"
 github "java-crate", "master"
 github "play_framework-crate", "dev"
-github "intellij-crate", "dev"
+github "intellij-crate", "master"
